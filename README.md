@@ -10,4 +10,11 @@
 <div align="right">
 <img width="540" height="403" alt="Image" src="https://github.com/user-attachments/assets/186adad2-76f5-465a-8c4e-9e77d28c3d58" />
 </div>
-                                 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
