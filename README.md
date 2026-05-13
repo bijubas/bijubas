@@ -47,5 +47,33 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 <br clear="right"/>
 
 ---
+## Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bijubas&show_icons=true&bg_color=00000000&title_color=ff1100&text_color=7b0009&icon_color=ff1100&hide_border=true" width="48%" />
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bijubas&theme=transparent&hide_border=true&ring=7b0009&fire=ff1100&currStreakLabel=ff1100&sideLabels=ff1100&dates=ff1100&sideNums=ff1100" width="60%" />
+</p>
+
+---
+<div align="center">
+  
+  ![snake gif](https://github.com/bijubas/bijubas/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bijubas&bg_color=0d0d0d&color=ff1100&line=ff1100&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=7b0009&title_color=ff1100)](https://github.com/bijubas)
+
+</div>
+
+---
+<img width="935" height="500" alt="Image" src="https://github.com/user-attachments/assets/75b24b5e-0707-4f77-8fb3-cc1b236c1f03" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1100&height=120&section=footer"/>
