@@ -34,7 +34,7 @@ Currently deepening my studies in **Python**, **SQL**, **AI Agents**, **BigQuery
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.Js**, **Git** and I am currently exploring **Machine Learning and Business Intelligence(BI)**.
 
-<img align="right" width="240px" src="https://github.com/user-attachments/assets/e9f02535-57f5-4866-b1a2-ad572ec9a1a8" /> alt="j"/>
+<img align="right" width="240px" src="https://github.com/user-attachments/assets/e9f02535-57f5-4866-b1a2-ad572ec9a1a8" /> 
 
 ```
 ◈  Class     →  Data & BI Apprentice
