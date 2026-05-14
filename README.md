@@ -28,9 +28,9 @@
 
 **ABOUT MY STUDIES**
 
-> *“The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.”* ***--Ada Lovelace***
+> *“The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves.”* ***—Ada Lovelace***
 
-Currently deepening my studies in **Python**, **SQL**, **AI Agents**, **BigQuery**, **Excel** and **Power BI**, applying this knowledge to real personal projects — automation bots, College assignments, and my daily activities during my current internship.
+Currently deepening my studies in **Python**, **SQL**, **AI Agents**, **BigQuery**, **Excel** and **Power BI**, applying this knowledge to real personal projects — Automation bots, College assignments, and my daily activities during my current internship.
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.Js**, **Git** and I am currently exploring **Machine Learning and Business Intelligence(BI)**.
 
